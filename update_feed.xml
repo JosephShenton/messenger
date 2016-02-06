@@ -12,7 +12,7 @@
             </sparkle:releaseNotesLink>
             <link>http://www.timedevs.net/updates</link>
             <pubDate>Sat, 06 Feb 2016</pubDate>
-            <enclosure url="https://github.com/iHackify/Messenger/tree/master/release/messenger/Messenger.app"
+            <enclosure url="https://github.com/iHackify/Messenger/tree/master/app/Messenger.app"
                 sparkle:version="9"
                 sparkle:shortVersionString="1.0"
                 length="3381354"
