@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>Messenger Changelog</title>
+        <link>https://raw.githubusercontent.com/iHackify/messenger/master/update_feed.xml</link>
+        <description>Most recent changes with links to updates.</description>
+        <language>en</language>
+        <item>
+            <title>Version 1.0</title>
+            <sparkle:releaseNotesLink>
+               http://www.timedevs.net/updates
+            </sparkle:releaseNotesLink>
+            <link>http://www.timedevs.net/updates</link>
+            <pubDate>Sat, 06 Feb 2016</pubDate>
+            <enclosure url="https://github.com/iHackify/Messenger/tree/master/release/messenger/Messenger.app"
+                sparkle:version="9"
+                sparkle:shortVersionString="1.0"
+                length="3381354"
+                type="application/octet-stream" />
+        </item>
+    </channel>
+</rss>
